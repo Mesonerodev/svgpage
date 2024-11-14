@@ -8,12 +8,10 @@
         border-radius: 15px;   
     } 
 
-meta { 
-
+meta{ 
         width=device-width 
 
         initial-scale=1.0 
-
 } 
 
  
@@ -30,7 +28,7 @@ meta {
 
      
 
-    .profile-image { 
+    .imga { 
 
         width: 50%; 
 
@@ -38,7 +36,7 @@ meta {
 
      
 
-    .name { 
+    .nom { 
 
         width: 100%; 
 
